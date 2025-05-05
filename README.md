@@ -14,9 +14,6 @@ This project is developed as part of an Android developer interview task. It dem
 - Toast-based user feedback
 - Fixed portrait orientation
 
-## Screenshots
-
-*(Add screenshots of the app here)*
 
 ## Screen Recording
 
